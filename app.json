@@ -2,7 +2,7 @@
 {
     "name": "AllBOT",
     "description": "ALLBOT",
-    "repository": "https://github.com/Rockas888/Bank",
+    "repository": "https://github.com/pkvgithub/Bank",
     "keywords": [
         "telegram bot",
         "pyrogram"
